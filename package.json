@@ -1,0 +1,9 @@
+{
+  "name": "same",
+  "description": "The opposite of diff",
+  "author": "Thabo Fletcher <_@tha.bo>",
+  "dependencies": {
+    "lazy": "*",
+  },
+  "engine": "node"
+}
