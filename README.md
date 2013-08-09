@@ -1,6 +1,6 @@
 same
 ====
 
-The opposite of diff
+the opposite of diff
 
-Implemented in C# and node for comparison. I will probably only maintain the node version for simplicity of cross-platform usage from the command line.
+made in node, but the prototype was in c# (not enough support for cross-platform command line)
